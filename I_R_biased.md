@@ -1,6 +1,6 @@
 # My biased view of R within an open science tool-chain
 
-## Resources
+## Tools
 
 * git
   * For all of the reasons Séverin gave in his overview
@@ -11,20 +11,21 @@
   * "Why is my evil lecturer making me learn SPSS, e-Prime (etc.)?"
   * R (obviously!)
   * but also [OpenSesame](http://osdoc.cogsci.nl/), [PsychoPy](http://www.psychopy.org/), [PsyToolkit](http://www.psytoolkit.org/)
-  * META: Crowdcast
-    * recording, flipped learning etc.
-* Resources
-  * Introductions to R
+  * "plumbing"
+    * LaTeX, make
+ 
+## (Meta) Programming approaches
+
+* Learn R
+  * Introductions
     * Plymouth University: Introduction to R (excellent intensive bootstrap)
       * Contact Graduate School, [Dr Julian Stander](https://www.plymouth.ac.uk/staff/julian-stander) or [Dr Luciana Dalla Valle](https://www.plymouth.ac.uk/staff/luciana-dalla-valle)
     * [*Official* Introduction to R](https://cran.r-project.org/doc/manuals/r-release/R-intro.html)
-  * Learn by example
+  * by example
     * [R Cookbook](https://books.google.co.uk/books?id=KIHuSXyhawEC)
     * Online [R Cookbook](http://www.cookbook-r.com/)
       * by author of [R Graphics Cookbook](https://books.google.co.uk/books?id=_iVFgKTRYrQC)
     * [R for Data Science](http://shop.oreilly.com/product/0636920034407.do)
-
-## (Meta) Programming approaches
 
 * [Pair programming](https://en.wikipedia.org/wiki/Pair_programming)
   * scaffolded help _when you need it_
@@ -36,6 +37,9 @@
     * [stackoverflow](http://stackoverflow.com/)
   * we do this instinctively
     * Charlotte, Jon, Laurence, and Stuart [re-factored](https://en.wikipedia.org/wiki/Code_refactoring) Andy's code
+
+* META: Crowdcast
+    * recording, flipped learning etc.
 
 ## Examples
 
