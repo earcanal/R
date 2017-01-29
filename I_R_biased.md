@@ -34,6 +34,8 @@
     * or [Hackhands](https://hackhands.com/)
   * Some lag
     * [stackoverflow](http://stackoverflow.com/)
+  * we do this instinctively
+    * Charlotte, Jon, Laurence, and Stuart [re-factored](https://en.wikipedia.org/wiki/Code_refactoring) Andy's code
 
 ## Examples
 
