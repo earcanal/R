@@ -1,5 +1,7 @@
 # My biased view of R within an open science tool-chain
 
+## Resources
+
 * git
 * (R) markdown
   * I wrote this using github's markdown editor!
@@ -13,15 +15,26 @@
   * Introduction to R (excellent intensive bootstrap)
     * Contact PU Graduate School [Dr Julian Stander](https://www.plymouth.ac.uk/staff/julian-stander) or [Dr Luciana Dalla Valle](https://www.plymouth.ac.uk/staff/luciana-dalla-valle)
   * references
-* Floobits
-  * pair programming
-  * help when you need it (scaffolding)
-* make
-* LaTeX
-* knitr
 
+## (Meta) Programming approaches
 
-* An example: rprime, how I got from the example to something that processes my data
-  * Where next?  Pairing with you lot.
+* Pair programming
+  * scaffolded help _when you need it_
+  * Real time
+    * requires a pool of developers
+    * ideally e.g. Slack -> Floobits
+    * or [Hackhands](https://hackhands.com/)
+  * Some lag
+    * [stackoverflow](http://stackoverflow.com/)
 
-* Q&A
+## Examples
+
+* [Attentional Bias Modification study](https://github.com/earcanal/dotprobe)
+  * make
+  * LaTeX
+  * knitr
+* [Chocolate craving study](https://github.com/earcanal/chocolate_craving)
+  * *rprime*: how I got from the example to something that processes my data
+  * Where next?  Who wants to pair?
+
+## Q & A
