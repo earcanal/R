@@ -16,7 +16,7 @@
 * Resources
   * Introductions to R
     * Plymouth University: Introduction to R (excellent intensive bootstrap)
-      * Contact Graduate School [Dr Julian Stander](https://www.plymouth.ac.uk/staff/julian-stander) or [Dr Luciana Dalla Valle](https://www.plymouth.ac.uk/staff/luciana-dalla-valle)
+      * Contact Graduate School, [Dr Julian Stander](https://www.plymouth.ac.uk/staff/julian-stander) or [Dr Luciana Dalla Valle](https://www.plymouth.ac.uk/staff/luciana-dalla-valle)
     * [*Official* Introduction to R](https://cran.r-project.org/doc/manuals/r-release/R-intro.html)
   * Learn by example
     * [R Cookbook](https://books.google.co.uk/books?id=KIHuSXyhawEC)
@@ -26,7 +26,7 @@
 
 ## (Meta) Programming approaches
 
-* Pair programming
+* [Pair programming](https://en.wikipedia.org/wiki/Pair_programming)
   * scaffolded help _when you need it_
   * Real time
     * requires a pool of developers
@@ -38,11 +38,10 @@
 ## Examples
 
 * [Attentional Bias Modification study](https://github.com/earcanal/dotprobe)
-  * make
-  * LaTeX
-  * knitr
+  * [make](https://github.com/earcanal/msc_dissertation/blob/master/Makefile)
+  * [LaTeX/knitr](https://github.com/earcanal/msc_dissertation/blob/master/dissertation.Rnw)
+ 
 * [Chocolate craving study](https://github.com/earcanal/chocolate_craving)
-  * **rprime**: how I got from the example to something that processes my data
-  * Where next?  Who wants to pair?
+  * **rprime**: [how](https://github.com/earcanal/chocolate_craving/commits/master) I got from [example code](https://cran.r-project.org/web/packages/rprime/vignettes/multiple-files.html) to [something that processes my data](https://github.com/earcanal/chocolate_craving/blob/master/craving_chocolate.R)
 
 ## Q & A
