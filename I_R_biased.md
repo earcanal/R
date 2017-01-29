@@ -31,7 +31,7 @@
   * scaffolded help _when you need it_
   * Real time
     * requires a pool of developers
-    * ideally e.g. Slack -> Floobits
+    * e.g. [Slack](https://psych-plymouth-ac-uk.slack.com/messages/@stuartgspicer/) -> [Floobits](https://floobits.com/earcanal)
     * or [Hackhands](https://hackhands.com/)
   * Some lag
     * [stackoverflow](http://stackoverflow.com/)
