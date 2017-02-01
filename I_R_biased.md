@@ -26,6 +26,7 @@
     * Online [R Cookbook](http://www.cookbook-r.com/)
       * by author of [R Graphics Cookbook](https://books.google.co.uk/books?id=_iVFgKTRYrQC)
     * [R for Data Science](http://shop.oreilly.com/product/0636920034407.do)
+    * [Exploratory Data Analysis in R: Case Study](https://www.datacamp.com/courses/exploratory-data-analysis-in-r-case-study).  I haven't taken this course, but I recall rating DataCamp when I first looked at R.
 
 * [Pair programming](https://en.wikipedia.org/wiki/Pair_programming)
   * scaffolded help _when you need it_
