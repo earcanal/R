@@ -4,6 +4,7 @@
 
 * git
   * For all of the reasons Séverin gave in his overview
+  * [Write good commit messages](http://chris.beams.io/posts/git-commit/)
 * (R) markdown
   * See upcoming seminar!
   * I wrote this using github's markdown editor!
