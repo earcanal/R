@@ -38,6 +38,8 @@
     * [stackoverflow](http://stackoverflow.com/)
   * we do this instinctively
     * Charlotte, Jon, Laurence, and Stuart [re-factored](https://en.wikipedia.org/wiki/Code_refactoring) Andy's code
+  * [Rubber ducking](http://wiki.c2.com/?RubberDucking) when nobody's available  
+* Debugging in R Studio
 
 * META: Crowdcast
     * recording, flipped learning etc.
