@@ -45,6 +45,10 @@
 * META: Crowdcast
     * recording, flipped learning etc.
 
+## Testing
+
+  * http://r-pkgs.had.co.nz/tests.html I've only skim-read this. It describes the only R testing framework I'm aware of.
+  
 ## Examples
 
 * [Attentional Bias Modification study](https://github.com/earcanal/dotprobe)
