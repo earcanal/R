@@ -4,3 +4,5 @@
 ## Money is Time
 
 * Blocks and bugs cost time
+
+## Patterns
