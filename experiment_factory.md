@@ -7,3 +7,7 @@
   1. Avoid programming altogether by creating a study from [freely available experimental tasks, surveys and games](https://expfactory.github.io/experiments/)
   1. Use jsPsych to develop your own experiments and surveys that run in a browser. (This is relatively easy if you have experience with ePrime, PsychoPy, OpenSesame etc.)
   1. Deploy your study locally or online using Docker, with data written to files or a database
+
+## References
+
+[The Experiment Factory: Standardizing Behavioral Experiments](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4844768/)
