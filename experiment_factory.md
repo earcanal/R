@@ -12,4 +12,4 @@
 
 Sochat, V. V., Eisenberg, I. W., Enkavi, A. Z., Li, J., Bissett, P. G., & Poldrack, R. A. (2016). The Experiment Factory: Standardizing Behavioral Experiments. Frontiers in Psychology, 7. https://doi.org/10.3389/fpsyg.2016.00610
 
-*Whilst the objectives in this paper remain the same, this is a fast-moving project and many of the technical elements have been superceeded by the latest version of the software.*
+*Whilst the objectives in this paper remain the same, this is a fast-moving project and many of the technical elements have been superceeded by [the latest version of the software](https://expfactory.github.io/expfactory/).*
