@@ -8,5 +8,3 @@
 ## References
 
 de Leeuw, J. R. (2015). jsPsych: A JavaScript library for creating behavioral experiments in a Web browser. Behavior Research Methods, 47(1), 1–12. https://doi.org/10.3758/s13428-014-0458-y
-
-[1.](http://www.indiana.edu/~pcl/papers/jspsychbrm.pdf)
