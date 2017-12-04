@@ -8,6 +8,11 @@
   1. Use jsPsych to develop your own experiments and surveys that run in a browser. (This is relatively easy if you have experience with ePrime, PsychoPy, OpenSesame etc.)
   1. Deploy your study locally or online using Docker, with data written to files or a database
 
+## Re-using experiments, surveys (and games)
+
+* jsPsych experiments can be run statically e.g. [Stroop](https://expfactory-experiments.github.io/stroop)
+* Surveys are simply TSVs e.g. [State Mindfulness Survey](https://github.com/expfactory-experiments/state-mindfulness-survey)
+
 ## References
 
 Sochat, V. V., Eisenberg, I. W., Enkavi, A. Z., Li, J., Bissett, P. G., & Poldrack, R. A. (2016). The Experiment Factory: Standardizing Behavioral Experiments. Frontiers in Psychology, 7. https://doi.org/10.3389/fpsyg.2016.00610
