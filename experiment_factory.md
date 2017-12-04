@@ -10,8 +10,8 @@
 
 ## Re-using experiments, surveys (and games)
 
-* jsPsych experiments can be run statically e.g. [Stroop](https://expfactory-experiments.github.io/stroop)
-* Surveys are simply TSVs e.g. [State Mindfulness Survey](https://github.com/expfactory-experiments/state-mindfulness-survey)
+* Experiments can be run stand-alone (e.g. [Stroop](https://expfactory-experiments.github.io/stroop)) and are written using [jsPsych](https://www.github.com/expfactory-experiments/stroop).
+* Surveys can be run stand-alone (e.g [State Mindfulness Survey](https://expfactory-experiments.github.io/state-mindfulness-survey)) are simply [TSVs](https://github.com/expfactory-experiments/state-mindfulness-survey).
 
 ## References
 
