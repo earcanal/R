@@ -13,6 +13,13 @@
 * No code
 * Different code
 * Unreliable code
+  * Everybody writes tests, right?!
+
+## Solutions
+
+* Open Science (software, data)
+  * Experiment development tools: PsychoPy, OpenSesame, Psychtoolbox, **jsPsych**
+  * Collaboration: [git(hub)](http://github.com/)
 
 ## Experiments, surveys (and games) from the library can be run stand-alone
 
