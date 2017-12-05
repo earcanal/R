@@ -31,6 +31,12 @@
 * Surveys are simply [TSVs](https://github.com/expfactory-experiments/state-mindfulness-survey)
 * Experiments are easiest to write using [jsPsych](https://www.github.com/expfactory-experiments/stroop)
 
+### Data
+
+* Files: JSON
+* SQLLite (JSON) - but 1 file :)
+* MySQL, Postgres
+
 ## References
 
 Sochat, V. V., Eisenberg, I. W., Enkavi, A. Z., Li, J., Bissett, P. G., & Poldrack, R. A. (2016). The Experiment Factory: Standardizing Behavioral Experiments. Frontiers in Psychology, 7. https://doi.org/10.3389/fpsyg.2016.00610
