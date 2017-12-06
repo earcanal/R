@@ -1,4 +1,6 @@
 # jsPsych
+  * [HTML](https://en.wikipedia.org/wiki/HTML), [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets), [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+  * [jsPsych](http://www.jspsych.org/) is a JavaScript library for developing psychology experiments
   * Browser as a development environment
 
 ## Limitations
