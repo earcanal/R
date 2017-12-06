@@ -1,7 +1,5 @@
 # The Experiment Factory: An overview
 
-## Abstract
-
 [The Experiment Factory](https://expfactory.github.io/expfactory/) is an open software framework which aims to address the technological barriers to replication in psychology and behavioural science.  This talk will demonstrate how the framework can be used to rapidly create and deploy a study in the lab and online.  
 
   1. Avoid programming altogether by creating a study from [freely available experimental tasks, surveys and games](https://expfactory.github.io/experiments/)
@@ -21,15 +19,16 @@
   * Experiment development tools: PsychoPy, OpenSesame, Psychtoolbox, **jsPsych**
   * Collaboration: [git(hub)](http://github.com/)
 
-## Experiments, surveys (and games) from the library can be run stand-alone
+## The library (and ontology) 
 
-* [Stroop](https://expfactory-experiments.github.io/stroop)
-* [State Mindfulness Survey](https://expfactory-experiments.github.io/state-mindfulness-survey)
+Github repositories containing [experiments](https://expfactory-experiments.github.io/stroop), [surveys](https://expfactory-experiments.github.io/state-mindfulness-survey), and [games](https://expfactory-experiments.github.io/bucket-game/) which can an be run stand-alone or via a web server.
 
-### Custom surveys and experiments
+### Bespoke
+
+Relatively fast to write you own using existing code as a template
 
 * Surveys are simply [TSVs](https://github.com/expfactory-experiments/state-mindfulness-survey)
-* Experiments are easiest to write using [jsPsych](https://www.github.com/expfactory-experiments/stroop)
+* Experiments are easiest to write using [jsPsych](jspsych.md)
 
 ### Data
 
