@@ -19,22 +19,18 @@
   * Experiment development tools: PsychoPy, OpenSesame, Psychtoolbox, **jsPsych**
   * Collaboration: [git(hub)](http://github.com/)
 
-## The library (and ontology) 
+# The 'experiment' library (and ontology) 
 
 Github repositories containing [experiments](https://expfactory-experiments.github.io/stroop), [surveys](https://expfactory-experiments.github.io/state-mindfulness-survey), and [games](https://expfactory-experiments.github.io/bucket-game/) which can an be run stand-alone or via a web server.
 
-### Bespoke
-
-Relatively fast to write you own using existing code as a template
+## Bespoke
 
 * Surveys are simply [TSVs](https://github.com/expfactory-experiments/state-mindfulness-survey)
-* Experiments are easiest to write using [jsPsych](jspsych.md)
+* Experiments are anything you can do with HTML, CSS and JavaScript, but easiest using [jsPsych](jspsych.md)
 
-### Data
+# Packaging a study
 
-* Files: JSON
-* SQLLite (JSON) - but 1 file :)
-* MySQL, Postgres
+* [Docker](docker.md)
 
 ## References
 
