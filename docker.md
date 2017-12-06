@@ -10,6 +10,7 @@
    * Virtual machines are too big
    * Hence containers
 * The Experiment Factory is a very simple container
+  * `docker run -v $PWD:/data vanessa/expfactory-builder build test-task state-mindfulness-survey`
   * `Dockerfile`, `startupscript.sh`
   * Same container can be run in the lab (I haven't tried [Docker for Windows](https://docs.docker.com/docker-for-windows/) yet) or online
   * `#docker build --no-cache -t earcanal/study3 .`
