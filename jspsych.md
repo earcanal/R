@@ -1,7 +1,14 @@
 # jsPsych
-  * [HTML](https://en.wikipedia.org/wiki/HTML), [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets), [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+  *  Browser as the platform for experiments: [HTML](https://en.wikipedia.org/wiki/HTML), [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets), [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
   * [jsPsych](http://www.jspsych.org/) is a JavaScript library for developing psychology experiments
-  * Browser as a development environment
+    * [core library](http://docs.jspsych.org/core_library/overview/)
+    * [plugins](http://docs.jspsych.org/plugins/overview/)
+  * Your browser is also a development environment.
+
+## Creating experiments
+
+  * I usually start by copying something similar from the library, but there's [a tutorial](http://docs.jspsych.org/tutorials/rt-task/) if you want to start from scratch.
+  * Here's [an experiment I prepared earlier](https://github.com/expfactory-experiments/breath-counting-task)
 
 ## Limitations
 
