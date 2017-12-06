@@ -2,7 +2,7 @@
   *  Browser as the platform for experiments: [HTML](https://en.wikipedia.org/wiki/HTML), [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets), [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
   * [jsPsych](http://www.jspsych.org/) is a JavaScript library for developing psychology experiments
     * [core library](http://docs.jspsych.org/core_library/overview/)
-    * [plugins](http://docs.jspsych.org/plugins/overview/)
+    * [plugins](http://docs.jspsych.org/plugins/overview/) are also fairly easy to write (if necessary) using an existing plugin as a template
   * Your browser is also a development environment.
 
 ## Creating experiments
