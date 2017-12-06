@@ -9,6 +9,10 @@
      * Hosts ("docks") can't cater for every app's requirements and dependencies
    * Virtual machines are too big
    * Hence containers
+* The Experiment Factory is a very simple container
+  * `Dockerfile`, `startupscript.sh`
+  * `docker run -v $PWD/data:/scif/data -d -p 80:80 earcanal/study3 start`
+  * `docker run -v $PWD/data:/scif/data -d -p 80:80 earcanal/study3 --experiments test-task,state-mindfulness-survey --database sqlite start`
 * I haven't tried [Docker for Windows](https://docs.docker.com/docker-for-windows/) yet
 
 ## Data
