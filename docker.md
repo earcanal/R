@@ -23,8 +23,9 @@
   * `docker exec -it ... bash`
   * `docker stop ...`
 
-## Coming soon
+## 'Headless' online studies coming soon
 
-  * Headless start for online studies
-      * `docker run -v $PWD/data:/scif/data -d -p 80:80 earcanal/study3 --experiments test-task,state-mindfulness-survey --database sqlite start`
-      * Participant tokens
+  * Deploy to your favourite Docker service provider
+    * [Digital Ocean](https://www.digitalocean.com/products/one-click-apps/docker/)
+  * `docker run -v $PWD/data:/scif/data -d -p 80:80 earcanal/study3 --experiments test-task,state-mindfulness-survey --database sqlite start`
+  * Work in progress: [participant tokens](https://github.com/expfactory/expfactory/issues/39)
