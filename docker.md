@@ -11,6 +11,7 @@
    * Hence containers
 * The Experiment Factory is a very simple container
   * `Dockerfile`, `startupscript.sh`
+  * `docker build --no-cache -t earcanal/study3 .`
   * `docker run -v $PWD/data:/scif/data -d -p 80:80 earcanal/study3 start`
   * `docker run -v $PWD/data:/scif/data -d -p 80:80 earcanal/study3 --experiments test-task,state-mindfulness-survey --database sqlite start`
 * I haven't tried [Docker for Windows](https://docs.docker.com/docker-for-windows/) yet
