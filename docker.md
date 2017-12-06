@@ -12,7 +12,7 @@
 * The Experiment Factory is a very simple container
   * `Dockerfile`, `startupscript.sh`
   * Same container can be run in the lab (I haven't tried [Docker for Windows](https://docs.docker.com/docker-for-windows/) yet) or online
-  * `docker build --no-cache -t earcanal/study3 .`
+  * `#docker build --no-cache -t earcanal/study3 .`
   * `docker run -v $PWD/data:/scif/data -d -p 80:80 earcanal/study3 start`
   * `docker exec -it ...`
   * `docker stop ...`
