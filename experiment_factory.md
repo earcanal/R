@@ -24,7 +24,7 @@
 Github repositories containing [experiments](https://expfactory-experiments.github.io/stroop), [surveys](https://expfactory-experiments.github.io/state-mindfulness-survey), and [games](https://expfactory-experiments.github.io/bucket-game/)
   * Can be run stand-alone or via a web server
     * `git clone git@github.com:expfactory-experiments/test-task.git`
-    * `python3 -m http.server`
+    * `python3 -m http.server 9999`
     
 ## Bespoke experiments and surveys
 
