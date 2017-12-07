@@ -8,9 +8,9 @@
 
 ## The technical replication problem
 
-* No code
-* Different code
-* Unreliable code
+1. No code sharing, **Procedure** section should be executable 
+1. Same study, different code
+1. Unreliable code == unreliable data
   * Everybody writes tests, right?!
 
 ## Solutions
