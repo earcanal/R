@@ -1,7 +1,5 @@
 # Using Docker with The Experiment Factory
 
-[The latest docs](https://expfactory.github.io/expfactory/) are a bit "raw"
-
 ## What is Docker?
 
 ![Docker logo](http://dev.solace.com/wp-content/uploads/2017/03/docker-logo.png)
@@ -13,6 +11,7 @@
    * Hence hosts provide "docks" (the docker application) which is a platform for any shape of container
 
 ## The Experiment Factory: a simple container
+  * [The latest docs](https://expfactory.github.io/expfactory/) are a bit "raw", but they do work
   * `docker run -v $PWD:/data vanessa/expfactory-builder build test-task state-mindfulness-survey`
   * `Dockerfile`, `startupscript.sh`
   * Same container can be run in the lab (I haven't tried [Docker for Windows](https://docs.docker.com/docker-for-windows/) yet) or online
