@@ -23,7 +23,7 @@
   1. Find someone to do what I want
   1. Find someone to help me do what I want
   1. DIY
-    1. copy, Stack Overflow, Google
+    1. copy, [Stack Overflow](https://stackoverflow.com/search?q=jspsych), Google
     1. think
 
 # The 'experiment' library (and ontology) 
