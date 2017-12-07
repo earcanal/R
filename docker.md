@@ -6,9 +6,9 @@
 
 * [Docker](https://www.docker.com/): applications (e.g. your experiments) as containers
    * Applications are too "granular"
-     * Hosts ("docks") can't cater for every app's requirements and dependencies
+     * Fiddly to configure hosts to cater for every app's requirements and dependencies
    * Virtual machines are too big
-   * Hence containers
+   * Hence hosts provide "docks" (the docker application) which is a platform for any shape of container
 
 ## The Experiment Factory: a simple container
   * `docker run -v $PWD:/data vanessa/expfactory-builder build test-task state-mindfulness-survey`
