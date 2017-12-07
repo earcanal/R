@@ -26,6 +26,7 @@
 ## 'Headless' online studies coming soon
 
   * Deploy to your favourite Docker service provider
-    * [Digital Ocean](https://www.digitalocean.com/products/one-click-apps/docker/)
+    * e.g. [Digital Ocean](https://www.digitalocean.com/products/one-click-apps/docker/)
+    * Run [headless](https://github.com/expfactory/expfactory/blob/headless/docs/pages/2-usage.md#start-a-headless-experiment-container)
   * `docker run -v $PWD/data:/scif/data -d -p 80:80 earcanal/study3 --experiments test-task,state-mindfulness-survey --database sqlite start`
   * Work in progress: [participant tokens](https://github.com/expfactory/expfactory/issues/39)
