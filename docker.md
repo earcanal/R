@@ -21,6 +21,7 @@
     * File format is JSON.  Looks a bit scary, but [easy to process with R](https://github.com/earcanal/manjushri/blob/master/R/expfactory.R).
     * Can also write to SQLLite, MySQL, Postgres
       * Data rows are still JSON, but at least everything is in a single file!
+      * `docker run -v $PWD/data:/scif/data -d -p 80:80 earcanal/study3 --experiments test-task,state-mindfulness-survey --database sqlite start`
   * `docker exec -it ... bash`
   * `docker stop ...`
 
