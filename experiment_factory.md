@@ -37,9 +37,13 @@ Github repositories containing [experiments](https://expfactory-experiments.gith
 
 # A good solution?
 
-* **Productivity:** Low bar to producing new tasks
-* **Quality control:** Continuous integration, [Selenium](http://www.seleniumhq.org/)
-* **Distribution:** Containers can contain anything e.g. PsychoPy, OpenSesame, Psychtoolbox, ePrime?!
+* **Productivity**
+  * Low bar to producing new tasks
+* **Quality control**
+  * Continuous integration testing
+  * [Acceptance Testing](https://en.wikipedia.org/wiki/Acceptance_testing) with [Selenium](http://www.seleniumhq.org/)
+* **Distribution**
+  * Containers are simple to distribute and can contain anything e.g. PsychoPy, OpenSesame, Psychtoolbox, ePrime?!
 
 ## References
 
