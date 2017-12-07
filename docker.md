@@ -7,8 +7,8 @@
 * [Docker](https://www.docker.com/): applications (e.g. your experiments) as containers
    * Applications are too "granular"
      * Fiddly to configure hosts to cater for every app's requirements and dependencies
-   * Virtual machines are too big
-   * Hence hosts provide "docks" (the docker application) which is a platform for any shape of container
+   * You could package your study as a virtual machine, but VMs are **BIG**
+   * **Docker!** Hosts provide "docks" (the docker application) which is a platform for any shape of container
 
 ## The Experiment Factory: a simple container
   * [The latest docs](https://expfactory.github.io/expfactory/) are a bit "raw", but they do work
