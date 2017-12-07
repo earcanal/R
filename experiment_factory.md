@@ -26,7 +26,7 @@ Github repositories containing [experiments](https://expfactory-experiments.gith
     * `git clone git@github.com:expfactory-experiments/test-task.git`
     * `python3 -m http.server`
     
-## Bespoke
+## Bespoke experiments and surveys
 
 * Surveys are simply [TSVs](https://github.com/expfactory-experiments/state-mindfulness-survey)
 * Experiments are anything you can do with HTML, CSS and JavaScript, but easiest using [jsPsych](jspsych.md)
