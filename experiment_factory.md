@@ -21,8 +21,11 @@
 
 # The 'experiment' library (and ontology) 
 
-Github repositories containing [experiments](https://expfactory-experiments.github.io/stroop), [surveys](https://expfactory-experiments.github.io/state-mindfulness-survey), and [games](https://expfactory-experiments.github.io/bucket-game/) which can an be run stand-alone or via a web server.
-
+Github repositories containing [experiments](https://expfactory-experiments.github.io/stroop), [surveys](https://expfactory-experiments.github.io/state-mindfulness-survey), and [games](https://expfactory-experiments.github.io/bucket-game/)
+  * Can be run stand-alone or via a web server.
+    * `git clone git@github.com:expfactory-experiments/test-task.git`
+    * `python3 -m http.server`
+    
 ## Bespoke
 
 * Surveys are simply [TSVs](https://github.com/expfactory-experiments/state-mindfulness-survey)
