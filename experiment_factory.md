@@ -35,6 +35,12 @@ Github repositories containing [experiments](https://expfactory-experiments.gith
 
 * [Docker](docker.md)
 
+# A good solution?
+
+* **Productivity:** Low bar to producing new tasks
+* **Quality control:** Continuous integration, [Selenium](http://www.seleniumhq.org/)
+* **Distribution:** Containers can contain anything e.g. PsychoPy, OpenSesame, Psychtoolbox, ePrime?!
+
 ## References
 
 Sochat, V. V., Eisenberg, I. W., Enkavi, A. Z., Li, J., Bissett, P. G., & Poldrack, R. A. (2016). The Experiment Factory: Standardizing Behavioral Experiments. Frontiers in Psychology, 7. https://doi.org/10.3389/fpsyg.2016.00610
