@@ -18,6 +18,13 @@
 * Open Science (software, data)
   * Experiment development tools: PsychoPy, OpenSesame, Psychtoolbox, **jsPsych**
   * Collaboration: [git(hub)](http://github.com/)
+* A software development algorithm
+  1. Find something that does what I want
+  1. Find someone to do what I want
+  1. Find someone to help me do what I want
+  1. DIY
+    1. copy, Stack Overflow, Google
+    1. think
 
 # The 'experiment' library (and ontology) 
 
