@@ -1,0 +1,32 @@
+---
+title: "Wide to long with dot-delimted variables"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+```
+
+# Problem
+
+We have wide data with multiple, hierarchical variables encoded in a single column:
+
+```{r wide}
+df <- tibble(
+  ID = 1:3,
+  es.pre.vivid = c(8,5,6),
+  es.pre.emotion = c(7,6,3)
+)
+df
+```
+
+We want this in long format, with each variable in its own column.
+
+# Solution
+
+```{r lengthen}
+df %>%
+  gather(key = var, value = value, es.pre.vivid, es.pre.emotion) %>%
+  separate(var, c("es", "pre", "vivid"), "\\.")
+```
