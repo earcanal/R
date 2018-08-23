@@ -10,8 +10,8 @@ As I see it, this is a scheduling problem.  Say you're stuck with some R program
 
 # Robot Hour
 
-Robot Hour is a proposed improvement to the Robot Club experiment.  Faculty balance a similar supply and demand of wisdom by having office hours, so the idea is that anyone within the School can publish hours when they are available to help with programming problems.  Wisdom providers ("wizards") would publish their availability, location, and expertise on an online calendar.  Wisdom "seekers" could scan this calendar and choose a wizard based on 
+Robot Hour is a proposed improvement to the Robot Club experiment.  Faculty balance a similar supply and demand of wisdom by having office hours.  So the idea is that anyone within the School can publish hours when they are available to help with programming problems.  Wisdom providers ("wizards") would publish their availability, location, and expertise on an online calendar.  Wisdom "seekers" could scan this calendar and choose a wizard based on 
 any of these variables.  Ideally, the outputs of these sessions would be shared for the benefit of the community.  This is [easy with GitHub gists](https://gist.github.com/earcanal/b466630c2db64b60365f6049c15f5117). 
 
-<sup>[1](#note1)</sup> The first rule of Robot Club is, "You do not ask why it's called Robot Club.".  The second rule of Robot Club is, "*You do not ask about why it's called Robot Club.*"  No wait ... I got that wrong.  The second rule of Robot Club is, "No smoking.".
+<sup>[1](#note1)</sup> The first rule of Robot Club is, "You do not ask why it's called Robot Club.".  The second rule of Robot Club is, "*You do not ask why it's called Robot Club.*"  No wait ... I got that wrong.  The second rule of Robot Club is, "No smoking.".
 
