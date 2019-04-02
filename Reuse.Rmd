@@ -1,0 +1,42 @@
+---
+title: "Reuse with R, R Markdown & git)"
+author: "Paul Sharpe"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  beamer_presentation:
+    fig_caption: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+knitr::read_chunk('external.R')
+```
+
+## R Markdown
+
+* Quick (like a wiki) communication tool PDF, Word, HTML ...
+* ... [Source that generated this presentation](https://github.com/earcanal/documents/Reuse.Rmd)
+
+## Git(hub)
+
+* De facto open collaborative development tool
+* Feature rich, but you can get by with limited vocabulary: `clone`, `add`, `commit`, `push`, `diff`
+* Commit messages as [project history metadata](https://github.com/earcanal/rsvp-task/commits/master)
+
+## Don't Repeat Yourself (DRY)
+
+* Minimise viral code!
+* Reuse with functions, packages, and ...
+
+## ... with knitr
+
+The following number came from the chunk defined as `# ---- external-chunk ----` in [external.R](https://github.com/earcanal/documents/external.R): 
+
+```{r external-chunk}
+```
+
+* Can't use symlinks due to [an issue in knitr](https://github.com/rstudio/rmarkdown/issues/1508)
+* [include chunks with `knitr::read_chunk()`](https://yihui.name/knitr/demo/externalization/)
+* Bug/feature: doesn't modify Global Environment because knitting is done in R sessions which are discarded
+* Open and source (pre-processing) code in a different project to set correct working directory (yay, debugger!)
+* Preregistration: open `.R`, embargo `.Rmd`
