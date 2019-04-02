@@ -15,7 +15,7 @@ knitr::read_chunk('external.R')
 ## R Markdown
 
 * Quick (like a wiki) communication tool PDF, Word, HTML ...
-* ... [Source that generated this presentation](https://github.com/earcanal/documents/Reuse.Rmd)
+* ... [Source that generated this presentation](https://github.com/earcanal/documents/blob/master/Reuse.Rmd)
 
 ## Git(hub)
 
@@ -30,7 +30,7 @@ knitr::read_chunk('external.R')
 
 ## ... with knitr
 
-The following number came from the chunk defined as `# ---- external-chunk ----` in [external.R](https://github.com/earcanal/documents/external.R): 
+The following number came from the chunk defined as `# ---- external-chunk ----` in [external.R](https://github.com/earcanal/documents/blob/master/external.R): 
 
 ```{r external-chunk}
 ```
